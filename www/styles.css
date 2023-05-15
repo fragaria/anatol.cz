@@ -1,0 +1,51 @@
+body {margin: 0; padding: 10px; background-color: #fff; font-size: 1em;
+	font-family: Verdana, Arial, Georgia, sans;	color: #555;}
+
+a {color: #29166f; text-decoration: none;}
+a:hover {color: #cc0000; text-decoration: underline;}
+
+div#main {width: 770px; height: 560px; top: 50%; margin: -280px 0 0 -385px;
+	position: absolute; left: 50%;}
+
+div#logo_main {background: #fff; text-align: center; height: 258px;
+	background-image: url(images/logo_main.gif); background-repeat: no-repeat;
+	background-position: center;}
+div#logo_main div {padding: 120px 0 0 0;}
+div#logo_main div h1.slogan {color: #fff; font-weight: bold; font-size: 1em; margin: 0;
+	font-family: tahoma;}
+div#logo_main div h1.slogan a {color: #fff; font-weight: bold; font-size: 1em; margin: 0;
+	font-family: tahoma;}
+
+div#content_header {padding: 0 0 0 100px; margin: 10px 0 20px 0;}
+div#content_header div.item {font-size: 0.8em; float: left; padding: 0 0 0 25px; width: 300px;}
+div#content_header div.clear {clear: both;}
+
+div#content {}
+div#content div.links {text-align: center; margin: 60px 0 0 30px;}
+div#content div.links a {font-size: 0.8em; padding: 0 30px 0 30px; white-space: nowrap;
+		background-image: url(images/ok.gif); background-repeat: no-repeat;
+		background-position: left;}
+div#content div.text {text-align: center; margin: 60px 0 0 30px;}
+div#content div.text a {font-size: 0.8em; padding: 0 30px 0 30px; white-space: nowrap;
+		background-image: url(images/ok.gif); background-repeat: no-repeat;
+		background-position: left;}
+div#content div.text a:hover {color: #29166f; text-decoration: none;}
+div#content ul {text-align: left; font-size: 0.8em; margin: 30px 0 0 90px; padding: 0 30px 0 30px; list-style: url(images/ok.gif);}
+
+div#footer{}
+div#footer{background: #fff; text-align:center; font-size:75%; background-image: url(images/footer.gif); background-repeat: no-repeat;
+	background-position: center; padding:0.5ex; margin: 25px 0 0 0;}
+div#footer p {color: #29166f; text-decoration: none;}
+
+/*
+div#main div#leftPart {width: 228px; height: 567px; float: left; background-image: url(images/leftPart.gif);}
+div#main div#leftPart div#leftPartMenu {margin: 130px 0 0 57px; width: 150px;}
+div#main div#leftPart div#leftPartMenu a {display: block; margin: 20px 0 0 0; padding: 0 0 0 33px;
+	text-decoration: none; font-size: 0.8em; font-weight: bold; color: #7d0027;}
+div#main div#leftPart div#leftPartMenu a:hover {border-left: 18px solid #005f36; background: #faa61a; padding: 0 0 0 15px; color: #005f36;}
+div#main div#leftPart div#leftPartMenu a.last {margin: 15px 0 0 0;}
+
+div#main div#rightPart {height: 567px; margin: 0 0 0 228px;}
+div#main div#rightPart div#rightPartTop {background: #78dcb7; height: 120px; background-image: url(images/rightPartTopBck.gif);}
+div#main div#rightPart div#rightPartContent {border-left: 2px solid #7c364b; border-top: 2px solid #7c364b; height: 445px;}
+*/
