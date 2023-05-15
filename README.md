@@ -1,0 +1,2 @@
+# anatol.cz
+static website
